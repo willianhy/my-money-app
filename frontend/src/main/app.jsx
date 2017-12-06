@@ -1,3 +1,5 @@
+import '../common/template/dependecies'
+
 import React from 'react'
 
 export default props => (
